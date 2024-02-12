@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    @include('partials.navigation')
     <h1>About</h1>
 </body>
 
